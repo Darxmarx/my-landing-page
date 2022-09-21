@@ -15,8 +15,12 @@ position: fixed;
     position: relative;
 }
 
-.right-alignment {
+.right-align {
     text-align: right;
+}
+
+.center-align {
+    text-align: center;
 }
 
 .scale {
