@@ -18,7 +18,26 @@ header {
     border-bottom: 20px solid black;
 }
 
+li {
+    display: inline;
+  }
+
+main {
+    padding: 60px;
+}
+
+form {
+    margin: 0 auto;
+    width: 100%;
+    border: 5px solid black;
+}
+
+input {
+    box-sizing: border-box;
+}
+
 footer {
+    width: 100%;
     position: absolute;
     margin-top: 0;
     bottom: 0;
